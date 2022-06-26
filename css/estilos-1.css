@@ -1,0 +1,196 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: arial, verdana, sans-serif;
+}
+
+body {
+    background-color: #E11364;
+}
+.contenedor {
+    background-color: #E11364;
+    width: 100vw;
+    height: 100vh;
+}
+
+h1 {
+    color: white
+}
+
+.titulo {
+    background-color: #BC105C;
+    width: 80%;
+    text-align: center;
+    margin-left: 120px;
+    padding: 20px;
+    color: white;
+    border-left: white solid 5px;
+    border-right: white solid 5px;
+    font-size: 30px;
+}
+
+.color-violeta {
+    background-color: #BC105C;
+    width: 80%;
+    height: 100vh;
+    padding: 20px;
+    margin-left: 120px;
+    margin-top: 30px;
+    border-radius: 2%;
+}
+
+h2 {
+    color: white;
+    font-size: 25px;
+}
+
+.color-blanco {
+    background-color: white;
+    width: 80%;
+    height: 95vh;
+    padding: 20px;
+    margin-left: 60px;
+    border-radius: 2%;
+}
+
+img {
+    width: 80%;
+    height: 65vh;
+    text-align: center;
+    margin-left: 90px;
+    border-top: brown dotted 2px;
+    padding-top: 10px;
+}
+
+.boton {
+    background-color: #2C8F20;
+    color: white;
+    width: 10%;
+    height: 5%;
+    text-align: center;
+    margin-left: 350px;
+    border-radius: 9%
+
+}
+
+h3 {
+    text-align: right;
+    color: #BC105C;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    color: white;
+    background-color: #E96093;
+    text-align: center;
+    padding: 10px;
+    width: 80%;
+    margin-left: 125px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* * {
+    background-color: #E11364;
+    font-family:  arial, verdana, sans-serif;
+    color: white;
+}
+
+.contenedor {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+}
+
+
+h1 {
+
+    background-color: #BC105C;
+    font-size: 50px;
+    border-left-color: white;
+    border-left-style: solid;
+    border-left-width: 5px;
+    border-right-color: white;
+    border-right-style: solid;
+    border-right-width: 5px;
+}
+
+
+.juegos {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    }
+
+.mario {
+    background-color: #BC105C;
+    background-size: 500px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 1%;
+
+}
+
+h2 {
+    background-color: #BC105C;
+    font-size: 25px;
+    text-align: left;
+    margin: 20px;
+}
+
+figure {
+    background-color: white;
+}
+
+img {
+    background-color: #BC105C;
+}
+
+figcaption {
+    background-color: #BC105C;
+    color: black;
+    background-color: white;
+
+}
+ */
